@@ -1,6 +1,11 @@
 - 👋 Hi, I’m @lemiskutswa
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Javascript & BootStrap
+- 🌱 I’m currently learning Javascript
+
+Twitter Badge LinkedIn Badge Instagram Badge Gmail Badge
+
+
+Github stats Top Langs GitHub Streak
 
 
 
