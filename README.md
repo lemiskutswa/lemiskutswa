@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lemiskutswa
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript, TypeScript, and React
 
 
 
